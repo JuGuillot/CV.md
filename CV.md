@@ -15,17 +15,17 @@ Je m'appelle **Julien GUILLOT**, après quelques années passées dans l'adminis
 
 # Expérience Professionnelle 
 
-* **Gestionnaire Financier RH | _DISP DIJON_ | 2023
+* **Gestionnaire Financier RH | _DISP DIJON_ | 2023**
 	* _Gestion des accidents de travail de la région Grand Est_
 	- _Gestion de la mise en facturation des frais médicaux liés aux accidents de travail_ 
-- **Chargé de mission lutte contre la pauvreté, aide alimentaire et PCB | _DREETS BFC_ | 2022
+- **Chargé de mission lutte contre la pauvreté, aide alimentaire et PCB | _DREETS BFC_ | 2022**
 	- _Gestion des appels à projet et manifestations d'intérêt
 	- _Suivi et évaluation des projets 2020/2021 et en cours
 	- _Liens et participation aux groupes de travail régionaux
 	- _Suivi des délégations budgétaires 
-- **Gestionnaire Financier et RH | Ecole Nationale des Greffes | 2021 - 2022
-- **Gestionnaire Budgétaire | DRAC | 2021
-- **Gestionnaire Logistique et Finances | DRDJSCS | 2020 - 2021
+- **Gestionnaire Financier et RH | Ecole Nationale des Greffes | 2021 - 2022**
+- **Gestionnaire Budgétaire | DRAC | 2021**
+- **Gestionnaire Logistique et Finances | DRDJSCS | 2020 - 2021**
 
 # Hobbies
 
