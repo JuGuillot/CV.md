@@ -5,7 +5,7 @@ Je m'appelle **Julien GUILLOT**, après quelques années passées dans l'adminis
 # Formation
 
 * **Wild Code School** 
-* [Préparation du titre professionnel RNCP BAC+2 « Technicien Supérieur Systèmes et Réseaux » niveau 5 – BAC+2, n° TP-01351 reconnu et délivré par l’État](https://www.wildcodeschool.com/fr-fr/formations-informatique/formation-technicien-systemes-et-reseaux). | _2024_ 
+	* [Préparation du titre professionnel RNCP BAC+2 « Technicien Supérieur Systèmes et Réseaux » niveau 5 – BAC+2, n° TP-01351 reconnu et délivré par l’État](https://www.wildcodeschool.com/fr-fr/formations-informatique/formation-technicien-systemes-et-reseaux). | _2024_ 
 * **Université de Bourgogne**
 	* Master AGE | _2019_ 
 *  **Université de Bourgogne** 
