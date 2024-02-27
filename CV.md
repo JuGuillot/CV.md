@@ -23,10 +23,10 @@ Je m'appelle **Julien GUILLOT**, après quelques années passées dans l'adminis
 	* _Gestion des accidents de travail de la région Grand Est_
 	- _Gestion de la mise en facturation des frais médicaux liés aux accidents de travail_ 
 - **Chargé de mission lutte contre la pauvreté, aide alimentaire et PCB | _DREETS BFC_ | 2022**
-	- _Gestion des appels à projet et manifestations d'intérêt
-	- _Suivi et évaluation des projets 2020/2021 et en cours
-	- _Liens et participation aux groupes de travail régionaux
-	- _Suivi des délégations budgétaires 
+	- _Gestion des appels à projet et manifestations d'intérêt_
+	- _Suivi et évaluation des projets 2020/2021 et en cours_
+	- _Liens et participation aux groupes de travail régionaux_
+	- _Suivi des délégations budgétaires_ 
 - **Gestionnaire Financier et RH | Ecole Nationale des Greffes | 2021 - 2022**
 - **Gestionnaire Budgétaire | DRAC | 2021**
 - **Gestionnaire Logistique et Finances | DRDJSCS | 2020 - 2021**
