@@ -1,3 +1,7 @@
+![](https://media.licdn.com/dms/image/D4E03AQGWqh4xbCHuvg/profile-displayphoto-shrink_800_800/0/1695548710358?e=1714608000&v=beta&t=vBstVXM_iADAiZGV2fgOvXWEdCgbBfLtno-VXZ5hYu0)
+
+# Julien Guillot
+
 # Présentation
 
 Je m'appelle **Julien GUILLOT**, après quelques années passées dans l'administration (notamment dans le domaine de la **gestion financière et RH**) et ayant toujours été passionné par l'informatique, j'ai décidé de faire une reconversion professionnelle en tant que Technicien Supérieur Systèmes et Réseaux.
