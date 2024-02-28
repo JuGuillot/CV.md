@@ -1,0 +1,24 @@
+    1  cat php_france_2019.csv 
+    2  ls
+    3  rm php_france_2019.csv 
+    4  grep -E 'France.*PHP' Wilders.csv > php_france_2019.csv
+    5  cat php_france_2019.csv 
+    6  wc -l php_france_2019.csv 
+    7  cat php_france_2019.csv 
+    8  wc -l php_france_2019.csv 
+    9  grep JavaScript Wilders.csv > javascript_biarritz_toulouse.csv
+   10  rm javascript_biarritz_toulouse.csv 
+   11  grep  Javascript Wilders.csv > javascript.csv
+   12  grep Biarritz Wilders.csv > biarritz.csv
+   13  grep Toulouse Wilders.csv > toulouse.csv
+   14  cat javascript.csv biarritz.csv toulouse.csv | -u
+   15  cat javascript.csv biarritz.csv toulouse.csv | sort -u
+   16  cat javascript.csv biarritz.csv toulouse.csv | sort -u > javascript_biarritz_toulouse.csv
+   17  ls
+   18  cat javascript_biarritz_toulouse.csv 
+   19  history 
+   20  history > history.csv
+   21  ls
+   22  tail
+   23  rm history.csv 
+   24  history > history.txt
